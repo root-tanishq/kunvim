@@ -19,10 +19,10 @@ bash install.sh
 | Ctrl + t | Create a new tab | 
 | Ctrl + q | exit vim | 
 | Ctrl + s | Save file | 
-| <space> | next buffer | 
-| <backspace> | previous buffer |
+| space | next buffer | 
+| backspace | previous buffer |
 | Ctrl + f | fzf for file opening |
 | Ctrl + x | Open a mini terminal | 
-| Ctrl + <space> | Python auto completion | 
+| Ctrl + space | Python auto completion | 
 | Ctrl + [ | Normal Mode |
 | Ctrl + p | auto completion from file |
