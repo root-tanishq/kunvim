@@ -1,17 +1,8 @@
 # Kunvim is my nvim configuration installer
 
 ## INSTALLATION 
-- Tokyonight basic
 ```
-git clone https://github.com/root-tanishq/kunvim
-cd kunvim 
-bash tokyonight-custom.sh
-```
-- GruvBox python
-```
-git clone https://github.com/root-tanishq/kunvim
-cd kunvim 
-bash python-gruvbox.sh
+curl -s https://raw.githubusercontent.com/root-tanishq/kunvim/main/install.sh | bash
 ```
 
 ## Keybindings I use
