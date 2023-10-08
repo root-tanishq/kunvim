@@ -7,7 +7,7 @@ curl -s https://raw.githubusercontent.com/root-tanishq/kunvim/main/install.sh | 
 ```
 ### tmux
 ```
-wget http://https://raw.githubusercontent.com/root-tanishq/kunvim/main/.tmux.conf -O ~/.tmux.conf
+wget https://raw.githubusercontent.com/root-tanishq/kunvim/main/.tmux.conf -O ~/.tmux.conf
 ```
 ## Keybindings I use
 | Key | What it does |
